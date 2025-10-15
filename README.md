@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hey, I'm Dorota Nalewajek</h1>
+<h1 align="center">👋 Hey, I'm Dorota Nalewajek 👩🏽‍💻🥷</h1>
 <h3 align="center">🚀 Aspiring AI & Data Engineer | 💡 Python Developer | 🧠 Future ML Expert</h3>
 
 ---
 
 ### 🧩 About Me
-I'm **Dorota**, but you can call me **Dot** — a self-taught Python developer with an unstoppable drive to master **AI, Machine Learning, and Data Engineering**.  
+I'm **Dorota**, but you can call me **Dot** — a self-taught Python developer with an unstoppable 🥷🏽  drive to master **AI, Machine Learning, and Data Engineering**.  
 I love combining logic with creativity — breaking things apart, understanding them deeply, and rebuilding them better.  
 
 💬 *“Unstoppable — just like the Sia song.”*
