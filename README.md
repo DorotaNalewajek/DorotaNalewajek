@@ -70,8 +70,8 @@ I love combining logic with creativity — breaking things apart, understanding 
 
 ---
 
-<<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DorotaNalewajek&theme=radical" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DorotaNalewajek&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 ---
