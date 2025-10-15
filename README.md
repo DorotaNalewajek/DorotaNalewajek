@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Dorota Nalewajek 👩🏽‍💻🥷</h1>
+<h1 align="center">👋 Hey, I'm Dorota Nalewajek 👩🏽‍💻</h1>
 <h3 align="center">🚀 Aspiring AI & Data Engineer | 💡 Python Developer | 🧠 Future ML Expert</h3>
 
 ---
