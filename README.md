@@ -74,6 +74,10 @@ I love combining logic with creativity — breaking things apart, understanding 
   <img src="https://github-readme-stats.vercel.app/api?username=DorotaNalewajek&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DorotaNalewajek&theme=radical" alt="GitHub Streak" />
+</p>
 ---
 
 ⭐️ *If you like my work, don’t forget to star my repos — it fuels my coffee supply ☕️💪*
