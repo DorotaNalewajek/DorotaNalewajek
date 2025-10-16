@@ -52,15 +52,15 @@ I love combining logic with creativity — breaking things apart, understanding 
 
 <p align="center">
   <a href="mailto:nalewajekdorota@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nalewajekdorota%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-nalewajekdorota%40gmail.com-%23A8E6CF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/dorota-nalewajek-32902429a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dorota%20Nalewajek-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Dorota%20Nalewajek-%23B3E5FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="https://github.com/DorotaNalewajek">
-    <img src="https://img.shields.io/badge/GitHub-Dorota%20Nalewajek-black?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Dorota%20Nalewajek-%23F8BBD0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
