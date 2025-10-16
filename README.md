@@ -50,10 +50,10 @@ I love combining logic with creativity — breaking things apart, understanding 
 ### 🌍 Connect With Me
 
 <p align="center">
-  <a href="mailto:dorotanalewajek@gmail.com">
+  <a href="mailto:nalewajekdorota@gmail.com">
     <img src="https://img.shields.io/badge/Email-dorotanalewajek%40gmail.com-red?style=flat-square&logo=gmail">
   </a>
-  <a href="https://linkedin.com/in/dorotanalewajek">
+  <a href="https://linkedin.com/in/dorota-nalewajek">
     <img src="https://img.shields.io/badge/LinkedIn-Dorota%20Nalewajek-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="https://github.com/DorotaNalewajek">
