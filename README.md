@@ -51,7 +51,7 @@ I love combining logic with creativity — breaking things apart, understanding 
 
 <p align="center">
   <a href="mailto:nalewajekdorota@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dorotanalewajek%40gmail.com-red?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-nalewajekdorota%40gmail.com-red?style=flat-square&logo=gmail">
   </a>
   <a href="https://linkedin.com/in/dorota-nalewajek">
     <img src="https://img.shields.io/badge/LinkedIn-Dorota%20Nalewajek-blue?style=flat-square&logo=linkedin">
