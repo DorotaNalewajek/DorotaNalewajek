@@ -19,11 +19,13 @@ I love combining logic with creativity — breaking things apart, understanding 
 🖥️ **Module 5** – Frontend (React, HTML, CSS, JS) – in progress  
 
 
+
 ### ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,html,css,js,sqlite,postgresql,mongodb,docker,github,aws,vscode" />
 </p>
+
 
 
 ### 💼 Projects
@@ -35,13 +37,15 @@ I love combining logic with creativity — breaking things apart, understanding 
 | **Custom NoSQL DB** | Simple document database built from scratch | Python, JSON |
 | **AI Models Playground** | Comparing ML models & performance metrics | scikit-learn, Pandas |
 
----
+
+
 
 ### 🔭 What I’m Currently Learning
 - 🧩 Building REST APIs with FastAPI  
 - 🧠 Decision Trees, Random Forests & Neural Networks  
 - ⚙️ Dockerized workflows & CI/CD pipelines  
 - ☁️ Cloud concepts (AWS, Data Lake, Orchestration)  
+
 
 
 ### 🌍 Connect With Me
@@ -61,17 +65,18 @@ I love combining logic with creativity — breaking things apart, understanding 
 </p>
 
 
+
 ### 💬 Fun Facts
 - 🧃 I prefer debugging with music — **Sia “Unstoppable”** is my coding anthem.  
 - 🧩 I love mixing logic (AI) with aesthetics (frontend).  
 - 🐍 I write Python like it’s poetry — clean, modular, and a bit sassy.  
 
----
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DorotaNalewajek&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
----
+
 
 ⭐️ *If you like my work, don’t forget to star my repos — it fuels my coffee supply ☕️💪*
