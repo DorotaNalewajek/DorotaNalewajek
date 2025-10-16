@@ -18,7 +18,7 @@ I love combining logic with creativity — breaking things apart, understanding 
 ☁️ **Module 4** – Cloud & Modern System Design (Docker, CI/CD, REST, Git) 🚀  
 🖥️ **Module 5** – Frontend (React, HTML, CSS, JS) – in progress  
 
-
+---
 
 ### ⚙️ Tech Stack
 
@@ -26,7 +26,7 @@ I love combining logic with creativity — breaking things apart, understanding 
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,html,css,js,sqlite,postgresql,mongodb,docker,github,aws,vscode" />
 </p>
 
-
+---
 
 ### 💼 Projects
 
@@ -38,7 +38,7 @@ I love combining logic with creativity — breaking things apart, understanding 
 | **AI Models Playground** | Comparing ML models & performance metrics | scikit-learn, Pandas |
 
 
-
+---
 
 ### 🔭 What I’m Currently Learning
 - 🧩 Building REST APIs with FastAPI  
@@ -46,7 +46,7 @@ I love combining logic with creativity — breaking things apart, understanding 
 - ⚙️ Dockerized workflows & CI/CD pipelines  
 - ☁️ Cloud concepts (AWS, Data Lake, Orchestration)  
 
-
+---
 
 ### 🌍 Connect With Me
 
@@ -64,7 +64,7 @@ I love combining logic with creativity — breaking things apart, understanding 
   </a>
 </p>
 
-
+---
 
 ### 💬 Fun Facts
 - 🧃 I prefer debugging with music — **Sia “Unstoppable”** is my coding anthem.  
