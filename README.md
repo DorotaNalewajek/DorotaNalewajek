@@ -49,18 +49,24 @@ I love combining logic with creativity — breaking things apart, understanding 
 
 ### 🌍 Connect With Me
 
+---
+
 <p align="center">
   <a href="mailto:nalewajekdorota@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nalewajekdorota%40gmail.com-red?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-nalewajekdorota%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-<a href="https://www.linkedin.com/in/dorota-nalewajek-32902429a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Dorota%20Nalewajek-blue?style=flat-square&logo=linkedin">
-</a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/dorota-nalewajek-32902429a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dorota%20Nalewajek-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
+  &nbsp;
   <a href="https://github.com/DorotaNalewajek">
-    <img src="https://img.shields.io/badge/GitHub-DorotaNalewajek-black?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Dorota%20Nalewajek-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
+
+---
+
 
 ---
 
