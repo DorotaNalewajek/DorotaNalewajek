@@ -12,11 +12,16 @@ I love combining logic with creativity — breaking things apart, understanding 
 ---
 
 ### 🧠 My Learning Roadmap
-🧱 **Module 1** – Data Structures & Algorithms ✅  
+🧱 **Module 1** – Data Structures ✅
 🐍 **Module 2** – Advanced Python & OOP ✅  
 🗄️ **Module 3** – Databases (SQL & NoSQL) ✅  
-☁️ **Module 4** – Cloud & Modern System Design (Docker, CI/CD, REST, Git) 🚀  
-🖥️ **Module 5** – Frontend (React, HTML, CSS, JS) – in progress  
+☁️ **Module 4** – Cloud & Modern System Design (Docker, CI/CD, REST, Git) 🚀  – in progress 
+🖥️ **Module 5** – Frontend (React, HTML, CSS, JS) – in progress in free time
+📐 **Module 6** Algorithms - soon
+
+### 🗒️ Now learning
+
+- php languauge
 
 ---
 
